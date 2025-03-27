@@ -47,7 +47,7 @@ Criar uma aplicação embarcada no FreeRTOS com 3 tarefas que simulam o monitora
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/LabirasIFPI/embarcatech-robo-omnidirecional.git
+   git clone https://github.com/PauloRLeal/sistema_monitoramento_simples_3tarefas.git
    ```
 2. Faça o upload do firmware para o microcontrolador.
 
